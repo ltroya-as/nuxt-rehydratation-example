@@ -24,3 +24,5 @@ Avoid the flickering content when the user is authenticated.
 Note: `asyncData` and `fetch` are not executed when going full static.
 
 ### Demo:
+
+https://60f08a8293123d00e57c14e8--happy-minsky-1268c6.netlify.app/
