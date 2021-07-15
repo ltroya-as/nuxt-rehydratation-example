@@ -40,3 +40,4 @@ It should have the `No authenticated content` content on the generated file, but
 https://gist.github.com/ltroya-as/fbbdce2b3dc30063e9c4ec7e93e3aba1#file-index-generated-file-html-L522
 
 This is the expected output:
+https://gist.github.com/ltroya-as/d37e3d0a89efebbfd66c2daf7700f50d#file-expected-generated-file-html-L523
